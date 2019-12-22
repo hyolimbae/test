@@ -1,0 +1,55 @@
+﻿  stdafx.cpp
+  animation.cpp
+  animationTest.cpp
+c:\users\hyoli\onedrive\desktop\box2d_base\animationtest.cpp(42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\animationtest.cpp(44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  effect.cpp
+  effectManager.cpp
+  gameNode.cpp
+c:\users\hyoli\onedrive\desktop\box2d_base\gamenode.cpp(88): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\gamenode.cpp(89): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\gamenode.cpp(79): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\gamenode.cpp(78): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  image.cpp
+c:\users\hyoli\onedrive\desktop\box2d_base\image.cpp(127): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\image.cpp(186): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\image.cpp(243): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\image.cpp(313): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\image.cpp(312): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\image.cpp(326): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\image.cpp(536): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\image.cpp(543): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  keyManager.cpp
+  pixelCollision.cpp
+c:\users\hyoli\onedrive\desktop\box2d_base\pixelcollision.cpp(22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\pixelcollision.cpp(24): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\pixelcollision.cpp(42): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\pixelcollision.cpp(46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\pixelcollision.cpp(54): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\pixelcollision.cpp(61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playGround.cpp
+c:\users\hyoli\onedrive\desktop\box2d_base\playground.cpp(106): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\playground.cpp(109): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  progressBar.cpp
+c:\users\hyoli\onedrive\desktop\box2d_base\progressbar.cpp(19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\progressbar.cpp(25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\progressbar.cpp(39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\progressbar.cpp(47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\progressbar.cpp(53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\progressbar.cpp(52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  soundManager.cpp
+  timeManager.cpp
+c:\users\hyoli\onedrive\desktop\box2d_base\timemanager.cpp(48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\timemanager.cpp(51): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\hyoli\onedrive\desktop\box2d_base\timemanager.cpp(54): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  timer.cpp
+c:\users\hyoli\onedrive\desktop\box2d_base\timer.cpp(61): warning C4244: '=': 'float'에서 'unsigned long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  txtData.cpp
+  utils.cpp
+  windowAPI.cpp
+c:\users\hyoli\onedrive\desktop\box2d_base\windowapi.cpp(88): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+c:\users\hyoli\onedrive\desktop\box2d_base\txtdata.cpp(54): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+  LINK : C:\Users\hyoli\OneDrive\Desktop\box2D_base\x64\Debug\windowAPI.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  windowAPI.vcxproj -> C:\Users\hyoli\OneDrive\Desktop\box2D_base\x64\Debug\windowAPI.exe
